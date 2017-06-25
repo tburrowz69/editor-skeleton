@@ -1,12 +1,12 @@
 {
-  "name": "editor-skeleton",
-  "author": "Team Vantage",
-  "description": "Replace this with a description of your editor.",
+  "name": "farcry 4",
+  "author": "tburrowz69",
+  "description": "far cry 4 campaign editor.",
   "version": "0.1.0",
   "vantage": {
-    "game": "Game Name",
-    "scid": "00000000-0000-0000-0000-000000000000",
-    "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
+    "game": "far cry 4",
+    "scid": "4a4b842cb317e5ec.a868dcd7.e5c73305.01",
+    "thumbnailUrl": "https://www.google.com/search?site=imghp&tbm=isch&source=hp&biw=1024&bih=499&q=far+cry+4&oq=far+cr&gs_l=img.1.1.0l10.2575.3850.0.5536.6.4.0.0.0.0.472.1097.0j1j2j0j1.4.0....0...1.1.64.img..2.4.1091.6ie-FfD3CR4#imgrc=C_pTZfqgfqjdlM:",
     "name": "Campaign Editor",
     "containerFilter": "savegame.svg",
     "fileFilter": "save"
