@@ -1,12 +1,12 @@
 {
-  "name": "editor-skeleton",
-  "author": "Team Vantage",
-  "description": "Replace this with a description of your editor.",
-  "version": "0.1.0",
+  "name": "farcry 4 editor",
+  "author": "tburrows69",
+  "description": farcry 4 campaign editor.",
+  "version": "0.0.1",
   "vantage": {
-    "game": "Game Name",
-    "scid": "00000000-0000-0000-0000-000000000000",
-    "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
+    "game": "farcry 4",
+    "scid": "4a4b842c.b317e5ec.a86dcd7.e5c73305.01",
+    "thumbnailUrl": "https://www.google.com/search?site=imghp&tbm=isch&source=hp&biw=1024&bih=499&q=farcry+4&oq=farcry&gs_l=img.3.1.0i10k1j0l3j0i10k1j0j0i10k1j0j0i10k1l2.1218.2964.0.5720.6.6.0.0.0.0.550.1127.0j2j1j5-1.4.0....0...1.1.64.img..2.4.1119.os_DIdrE-Rk#imgrc=ieC-e0MSfOgJYM:",
     "name": "Campaign Editor",
     "containerFilter": "savegame.svg",
     "fileFilter": "save"
